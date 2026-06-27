@@ -77,9 +77,6 @@ The application will open automatically in your default web browser.
 
 ## 📸 Screenshot
 
-
-## 📸 Screenshot
-
 ![Application Screenshot](screenshots/app.png)
 
 
