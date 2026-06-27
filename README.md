@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🌍 AI Language Translator
 
 A simple and interactive language translation web application built using **Python**, **Streamlit**, and **Deep Translator**. This project allows users to translate text between multiple languages through an easy-to-use interface.
